@@ -15,4 +15,6 @@ class SplashScreen extends StatelessWidget {
 body: Body()
     );
   }
-}
+
+
+  fuck
