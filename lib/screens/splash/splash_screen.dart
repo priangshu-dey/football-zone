@@ -11,10 +11,9 @@ class SplashScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     SizeConfig().init(context);
     return Scaffold(
-      backgroundColor: Color.fromRGBO(167, 255, 235, .5),
-body: Body()
+        backgroundColor: Color.fromRGBO(167, 255, 235, .5),
+        body: Body()
     );
   }
+}
 
-
-  fuck
